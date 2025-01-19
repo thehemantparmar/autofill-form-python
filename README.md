@@ -8,8 +8,11 @@ Step 1: Install python
 Step 1: Install below python libraries
 
 pip install selenium-wire
+
 pip install pandas
+
 pip install openpyxl
+
 pip install blinker==1.7.0
 
 Step 3: Install crome browser

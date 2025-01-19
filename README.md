@@ -5,7 +5,7 @@ Before you start check your have installed python and necessary libraries
 
 Step 1: Install python
 
-Step 1: Install below python libraries
+Step 2: Install below python libraries
 
 pip install selenium-wire
 
